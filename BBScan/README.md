@@ -1,5 +1,12 @@
 # BBScan 1.5 #
 
+该项目主要是对源码的阅读和分析，添加了一些注释。
+下面是对该工具的分析文章
+http://www.moqizou.top/index.php/study/BBScan.html
+
+---
+
+
 **BBScan** 是一个高并发漏洞扫描工具，可用于
 
 * 高危漏洞爆发后，编写简单插件或规则，进行全网扫描
